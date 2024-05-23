@@ -11695,5 +11695,12 @@
         "author": "Stashpad",
         "description": "Create a Stashpad Doc from your notes.",
         "repo": "stashpad/obsidian-to-stashpad"
+    },
+    {
+        "id": "audiopen-obsidian",
+        "name": "AudioPen-Obsidian Sync",
+        "author": "Jonas Haefele",
+        "description": "Plugin and service that syncs new AudioPen notes to Obsidian.",
+        "repo": "jonashaefele/audiopen-obsidian"
     }
 ]
